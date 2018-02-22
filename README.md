@@ -17,10 +17,10 @@ Our upcoming intro meetings are:
 * 3/20/2018 5:30 PM
 * 4/21/2018 5:30 PM
 
-If you'd like to come, please let us know by filling out this form,
+If you'd like to come, please let us know by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSfhC6QR9eTbg1G0t2K-DJDVaB5XS2i4PAMpmhyzcZWhq-QbYA/viewform?usp=sf_link),
 so we can contact you and let you know where we will be meeting (our meeting
 rooms do change from month to month).
 
 If you came to an introductory meeting and had difficulty installing
 or using any of the basic tools, you may file an issue on this repository
-and a group member will try to help you get up and running.  
+and a group member will try to help you get up and running.
