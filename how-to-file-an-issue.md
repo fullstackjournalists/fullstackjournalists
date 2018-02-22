@@ -22,8 +22,7 @@ Once you [visit the Issues tab](https://github.com/fullstackjournalists/fullstac
 
 ### Read before you write your first issue
 
-* Read: [How to file a good issue](https://upthemes.com/blog/2014/02/writing-useful-github-issues/)
-* Search the issue queue. You can get extra credit points by filing great issues. You can also lose points by filing an issue that another team has already filed. Make sure to see if someone else has already filed the same issue.
+* Before you start typing up your issue. Search the issue queue. Someone else may have already had your problem and solved it! If their writeup helped you, leave a comment. It's always nice to hear thank you!
 
 *In every issue, you should include the following:*
 
@@ -31,7 +30,8 @@ Once you [visit the Issues tab](https://github.com/fullstackjournalists/fullstac
 * The results you expected to get when you were trying to do it.
 * The results that actually happened. Be sure to copy and paste any error messages!
 * Anything you tried to fix the problem.
-* What you Googled, and what you found out from Googling (I won't answer your issue until you can show me you tried to fix it, or find information about how to fix it, on your own).
+* What you Googled, and what you found out from Googling.
+
 
 ### WARNING
 
