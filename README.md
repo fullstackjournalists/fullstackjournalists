@@ -22,5 +22,5 @@ so we can contact you and let you know where we will be meeting (our meeting
 rooms do change from month to month).
 
 If you came to an introductory meeting and had difficulty installing
-or using any of the basic tools, you may file an issue on this repository
-and a group member will try to help you get up and running.
+or using any of the basic tools, here's how to get help. We really want
+you to get up and running! You can file an issue. [Here's how](https://github.com/fullstackjournalists/fullstackjournalists/blob/master/how-to-file-an-issue.md). 
