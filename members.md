@@ -3,3 +3,5 @@
 ## Boston University Chapter
 
 [Lisa Williams](http://lisawilliams.github.io/lisa/), Organizer [github/lisawilliams](http://github.com/lisawilliams), [bio](http://tomlinson.org/resume) <br>
+
+[Christine Lytwynec](http://chrislytwynec.com), Member, BU <br>
