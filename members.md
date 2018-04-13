@@ -7,3 +7,5 @@
 [Jordan Rice](https://github.com/jnrice) <br>
 
 [Christine Lytwynec](http://chrislytwynec.com), Member, BU <br>
+
+[Bansari Kamdar](https://github.com/bansarikamdar/)
